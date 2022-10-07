@@ -1,1 +1,1 @@
-# Data-Structures
+These repository was created for data structure lab class
